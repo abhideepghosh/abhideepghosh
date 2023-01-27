@@ -38,8 +38,8 @@
 
 <code><img title="React" height="25" src="images/react-original.svg"></code>
 <code><img title="Redux" height="25" src="images/redux.svg"></code>
-<code><img title="Express" height="25" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"></code>
-<code><img title="NodeJS" height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png"></code>
+<code><img title="NodeJS" height="25" src="https://miro.medium.com/max/1400/1*xdo0UBpyszvD7-7EH4TkIA.png"></code>
+<code><img title="Express" height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png"></code>
 
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
 <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
