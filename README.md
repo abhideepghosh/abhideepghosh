@@ -22,7 +22,7 @@
   <br>
   💻 I love creating stunning websites using React, JS, Express and MongoDB.
   <br>
-  📫 My Portfolio: <a href="https://abhideepghosh.netlify.app/">Feel Free To Contact Me</a>
+  <!-- 📫 My Portfolio: <a href="https://abhideepghosh.netlify.app/">Feel Free To Contact Me</a> -->
 </p>
 
 <hr>
