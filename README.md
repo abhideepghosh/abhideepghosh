@@ -88,8 +88,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/abhideepghosh//Leetcode-GFG-Solutions" title="DSA"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abhideepghosh&repo=/Leetcode-GFG-Solutions&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/abhideepghosh/spotify-clone-react" title="Spotify Clone"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abhideepghosh&repo=spotify-clone-react&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/abhideepghosh/spotify-react-clone" title="spotify-react-clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abhideepghosh&repo=spotify-react-clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/abhideepghosh/lightverse-dictionary" title="Dictionary"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=abhideepghosh&repo=lightverse-dictionary&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
