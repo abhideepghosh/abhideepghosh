@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/abhideep-ghosh/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/AbhideepGhosh/" title="LeetCode Profile"><img width="22" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"> LeetCode</a></code>
   
-  <code><a href="https://www.instagram.com/mrblacknightsky/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://abhideepghosh.netlify.app/" title="Instagram Profile"><img width="22" src="https://miro.medium.com/max/900/1*q99J7XLYVWgOt69E8IuXqw.gif"> Portfolio</a></code>
 </h5>
 <br>
 <p align="center">
