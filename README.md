@@ -38,6 +38,7 @@
 
 <code><img title="React" height="25" src="images/react-original.svg"></code>
 <code><img title="Redux" height="25" src="images/redux.svg"></code>
+<code><img title="NodeJS" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT07v-Y7tUcqIJRbM9r16qdWgnPvaJ1zBMzn8NdjRL1_FqkjQT1ajSaPDV8xvUFsRpXsB4&usqp=CAU"></code>
 
 <code><img title="Git" height="25" src="images/git-original.svg"></code>
 <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
