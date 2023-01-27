@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/abhideep-ghosh/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/AbhideepGhosh/" title="LeetCode Profile"><img width="22" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"> LeetCode</a></code>
+  <code><a href="https://leetcode.com/AbhideepGhosh/" title="LeetCode Profile"><img width="22" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"> LeetCode</a></code>
   
   <code><a href="https://www.instagram.com/mrblacknightsky/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
