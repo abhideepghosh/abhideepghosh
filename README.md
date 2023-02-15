@@ -13,7 +13,7 @@
  
 </h5>
 <h5 align="center">
-  <code><a href="https://abhideepghosh.netlify.app/" title="Portfolio"><img width="22" src="https://abhideepghosh.netlify.app/static/media/me.02c1300b695cde3915ae.gif"> Portfolio</a></code>
+  <code><a href="https://abhideepghosh.netlify.app/" title="Portfolio"> Portfolio</a></code>
 </h5>
 <br>
 <p align="center">
