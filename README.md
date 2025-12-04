@@ -9,7 +9,7 @@
 <h1 align="center">Hi, I'm <span style="color:#61dafb">Abhideep Ghosh</span> 👋</h1>
 
 <p align="center">
-  <b>Full Stack Web Developer • MERN Stack Enthusiast • Problem Solver</b>
+  <b>Full Stack Web Developer • AI Enthusiast • Problem Solver</b>
   <br>
   🎓 B.Tech CSE, Institute of Engineering & Management, Kolkata
 </p>
