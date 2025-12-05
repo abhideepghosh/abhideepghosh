@@ -68,53 +68,52 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/abhideepghosh/Leetcode-GFG-Solutions">
-        <img src="https://socialify.git.ci/abhideepghosh/Leetcode-GFG-Solutions/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Leetcode & GFG" />
+        <img src="https://socialify.git.ci/abhideepghosh/Leetcode-GFG-Solutions/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="Leetcode & GFG" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/abhideepghosh/CyberNotes">
-        <img src="https://socialify.git.ci/abhideepghosh/CyberNotes/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="CyberNotes" />
+        <img src="https://socialify.git.ci/abhideepghosh/CyberNotes/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="CyberNotes" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/abhideepghosh/hotstar-clone">
-        <img src="https://socialify.git.ci/abhideepghosh/hotstar-clone/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Hotstar Clone" />
+        <img src="https://socialify.git.ci/abhideepghosh/hotstar-clone/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="Hotstar Clone" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/abhideepghosh/open-ai-js">
-        <img src="https://socialify.git.ci/abhideepghosh/open-ai-js/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="AI Code Wizard" />
+        <img src="https://socialify.git.ci/abhideepghosh/open-ai-js/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="AI Code Wizard" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/abhideepghosh/spotify-clone-react">
-        <img src="https://socialify.git.ci/abhideepghosh/spotify-clone-react/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Spotify Clone" />
+        <img src="https://socialify.git.ci/abhideepghosh/spotify-clone-react/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="Spotify Clone" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/abhideepghosh/lightverse-dictionary">
-        <img src="https://socialify.git.ci/abhideepghosh/lightverse-dictionary/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="LightVerse Dictionary" />
+        <img src="https://socialify.git.ci/abhideepghosh/lightverse-dictionary/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="LightVerse Dictionary" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/abhideepghosh/forkify-js">
-        <img src="https://socialify.git.ci/abhideepghosh/forkify-js/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Forkify" />
+        <img src="https://socialify.git.ci/abhideepghosh/forkify-js/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="Forkify" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/abhideepghosh/DreamerLane">
-        <img src="https://socialify.git.ci/abhideepghosh/DreamerLane/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Solid&theme=Dark" alt="Dreamer Lane" />
+        <img src="https://socialify.git.ci/abhideepghosh/DreamerLane/image?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" alt="Dreamer Lane" />
       </a>
     </td>
   </tr>
 </table>
-
 <br />
 
 <p align="center">
